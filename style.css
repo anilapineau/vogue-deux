@@ -1,0 +1,116 @@
+a {
+color: rgb(0, 0, 0);
+font-size: 32px;
+font-family: 'Antic Didone', serif;
+text-align: center;
+letter-spacing: 3px;
+text-decoration: none;
+text-shadow: 5px 10px 20px gray ;
+
+}
+h1 {
+    color: rgb(0, 0, 0);
+font-size: 24px;
+font-family: 'Antic Didone', serif;
+text-align: center;
+
+
+}
+h2 {
+    color:rgb(0, 0, 0);
+    font-size: 10px;
+
+font-family: 'Roboto', sans-serif;
+    text-align:center; 
+}
+
+
+
+ .slogan{ color:rgb(0, 0, 0);
+    font-size: 20px;
+font-family: 'Antic Didone', serif;
+    text-align:center;
+    
+
+}
+
+.une {  color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif ;
+    text-align:left;
+    letter-spacing: 1px;
+    text-decoration:underline;
+    text-shadow: 5px 10px 20px gray ;
+
+}
+
+.CATÉGORIES {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    letter-spacing: 1px;
+    text-decoration: none;
+    
+
+}
+
+.CATÉGORIESS {color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    letter-spacing: 1px;
+    text-decoration: none;
+ position:absolute;right : 1200px;
+ position: absolute; top: 1195px;
+}
+
+
+.newsletter { 
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    border: 2px solid black;
+    color: rgb(255, 255, 255);
+   font-family: Arial, Helvetica, sans-serif;
+   text-decoration: underline;
+   font-size: 13px;
+   position: absolute;
+    top: 168px;
+    left: 1100px;
+    border-radius: 50px;
+box-shadow: 5px 10px 20px gray ;
+  
+  
+   
+}
+
+
+
+.flex {
+    display: flex;
+flex-wrap: wrap;
+justify-content:space-around;
+}
+.a {
+    display: block;
+    text-align: top;
+    ;
+}
+.text center{
+ text-align: center;
+   
+}
+.rubriques {
+    color: rgb(0, 0, 0);
+font-size: 32px;
+font-family: 'Antic Didone', serif;
+text-align: center;
+letter-spacing: 3px;
+text-decoration: none;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+
+
+}
